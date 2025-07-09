@@ -2,7 +2,7 @@
 
 A full-stack web application built for the **Diksha Foundation** to help measure and nurture the **social-emotional development** of students in underserved communities.
 
-Unlike traditional systems that focus purely on academic performance, EduPulse brings together **machine learning**, **natural language understanding**, and **prompt-based AI feedback** to give students, teachers, and NGOs actionable insights on the **invisible aspects of growth** — like confidence, empathy, collaboration, and emotional well-being.
+Unlike traditional systems that focus purely on academic performance, this application brings together **machine learning**, **natural language understanding**, and **prompt-based AI feedback** to give students, teachers, and NGOs actionable insights on the **invisible aspects of growth** — like confidence, empathy, collaboration, and emotional well-being.
 
 ---
 
@@ -55,8 +55,8 @@ Unlike traditional systems that focus purely on academic performance, EduPulse b
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-team/EduPulse.git
-cd EduPulse
+git clone https://github.com/your-team/Diksha-Foundation-Cfg.git
+cd Diksha-Foundation-Cfg
 cd client && npm install
 cd ../server && npm install
 MONGO_URI=your-mongodb-uri
