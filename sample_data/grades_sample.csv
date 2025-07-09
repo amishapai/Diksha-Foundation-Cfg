@@ -1,0 +1,10 @@
+student_id,subject,grade,marks,date
+STU001,Mathematics,A-,88,2024-01-20
+STU001,English,A,92,2024-01-20
+STU001,Science,B+,85,2024-01-20
+STU002,Mathematics,A,94,2024-01-20
+STU002,English,A-,89,2024-01-20
+STU002,Science,A,91,2024-01-20
+STU003,Mathematics,B,82,2024-01-20
+STU003,English,B+,86,2024-01-20
+STU003,Science,B,80,2024-01-20

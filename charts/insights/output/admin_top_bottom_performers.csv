@@ -1,0 +1,31 @@
+Roll No,First name,Last name,DOB /Age,Grade,Grade LL,Section,Mandal,Village Name,Gender (M/F),Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Total Score,Total Marks,Total %,Center,Center_Name
+BIH_50,Wendy,,12,7,7,B,Gregoryborough,Flowers Estate,M,2,3,2,1,3,1,3,3,3,3,24,30,80.0,BIH,Bihar
+BIH_38,Ashley,,10,5,5,B,Solomonside,Ralph Branch,M,2,4,0,2,1,4,2,3,3,1,22,30,73.33,BIH,Bihar
+BIH_46,Matthew,,16,10,10,B,Murraychester,Riley Plains,M,2,2,1,1,4,4,1,2,3,2,22,30,73.33,BIH,Bihar
+BIH_86,Joseph,,6,1,1,C,Perryberg,Keller Groves,M,0,3,2,2,3,3,3,2,2,2,22,30,73.33,BIH,Bihar
+BIH_56,Charles,,12,7,7,B,New Phillip,Nguyen Locks,M,0,2,2,2,3,1,3,3,3,2,21,30,70.0,BIH,Bihar
+BIH_20,April,,14,9,9,A,Lake Hunter,James Alley,M,2,0,0,0,1,2,0,0,0,0,5,30,16.67,BIH,Bihar
+BIH_3,Brian,,6,1,1,A,Christopherburgh,Johnson Divide,M,0,0,0,0,1,2,0,2,2,0,7,30,23.33,BIH,Bihar
+BIH_33,Daniel,,11,6,6,B,Port Carl,Jamie Ways,M,0,0,0,0,2,1,0,3,1,0,7,30,23.33,BIH,Bihar
+BIH_8,Annette,,15,10,10,A,West Billy,Jessica Forest,F,0,2,0,0,2,0,0,3,1,0,8,30,26.67,BIH,Bihar
+BIH_9,Cheryl,,11,6,6,A,East Kari,Christopher Trail,M,0,0,0,2,2,0,3,0,0,1,8,30,26.67,BIH,Bihar
+PAT_68,Ernest,,11,6,6,C,Davidmouth,Kimberly Expressway,M,2,4,1,1,4,4,0,3,3,1,23,30,76.67,PAT,Patna
+PAT_25,Joan,,6,1,1,A,South Kaitlinport,Heather Drive,M,2,4,2,2,1,3,3,2,0,3,22,30,73.33,PAT,Patna
+PAT_47,Maxwell,,10,5,5,B,North Davidborough,William Grove,M,1,4,2,1,4,4,2,0,2,1,21,30,70.0,PAT,Patna
+PAT_74,Jennifer,,8,3,3,C,North Dana,Sara Squares,F,0,2,1,1,3,4,2,3,3,2,21,30,70.0,PAT,Patna
+PAT_105,Amy,,10,5,5,D,North Andrew,Douglas Knolls,M,1,2,0,2,1,3,3,3,3,3,21,30,70.0,PAT,Patna
+PAT_28,Wesley,,8,3,3,A,Port Ambermouth,James Heights,F,1,2,0,0,0,0,1,0,1,0,5,30,16.67,PAT,Patna
+PAT_22,Gina,,12,7,7,A,Chapmanland,Michael Forks,M,0,0,1,2,0,0,1,1,2,0,7,30,23.33,PAT,Patna
+PAT_23,Daniel,,6,1,1,A,Andrewstad,Valenzuela Village,M,0,0,0,1,0,4,0,1,0,1,7,30,23.33,PAT,Patna
+PAT_10,Jennifer,,8,3,3,A,Cathychester,Janet Forges,M,2,0,2,0,3,0,0,0,1,0,8,30,26.67,PAT,Patna
+PAT_100,Maria,,8,3,3,D,Port Thomas,Lewis Bypass,M,2,0,1,0,2,0,1,2,0,0,8,30,26.67,PAT,Patna
+SMT_18,Angela,,6,1,1,A,Medinaview,Jonathon Point,F,2,3,2,2,2,4,3,3,3,1,25,30,83.33,SMT,SMT
+SMT_130,Traci,,6,1,1,E,Javierport,White Lodge,F,2,4,2,1,3,4,3,0,3,1,23,30,76.67,SMT,SMT
+SMT_30,Brittany,,15,10,10,A,Ramirezberg,Brown Expressway,F,2,1,2,2,2,4,2,1,3,3,22,30,73.33,SMT,SMT
+SMT_43,Michael,,9,4,4,B,East Brianna,Renee Rue,M,2,0,2,2,4,2,3,3,2,2,22,30,73.33,SMT,SMT
+SMT_44,Connie,,13,8,8,B,Lake Lisachester,Virginia Island,M,1,0,2,2,4,2,3,3,3,2,22,30,73.33,SMT,SMT
+SMT_129,Gregory,,13,8,8,E,Hebertshire,Shepard Springs,M,0,1,0,0,1,0,0,0,0,0,2,30,6.67,SMT,SMT
+SMT_90,Kathryn,,12,7,7,C,South Thomasside,Davila Tunnel,M,2,1,0,0,0,1,2,0,0,0,6,30,20.0,SMT,SMT
+SMT_97,Cindy,,7,2,2,D,South Theodoreborough,Stewart Brook,F,0,0,0,0,4,0,0,1,0,1,6,30,20.0,SMT,SMT
+SMT_3,Jenny,,13,8,8,A,Carrfurt,Valerie Mission,M,2,0,0,1,0,0,0,2,2,0,7,30,23.33,SMT,SMT
+SMT_145,Courtney,,16,10,10,E,New Linda,Phillip Viaduct,F,0,1,0,1,1,3,1,0,0,0,7,30,23.33,SMT,SMT

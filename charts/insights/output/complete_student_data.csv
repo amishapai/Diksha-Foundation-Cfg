@@ -1,0 +1,451 @@
+Roll No,First name,Last name,DOB /Age,Grade,Grade LL,Section,Mandal,Village Name,Gender (M/F),Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Total Score,Total Marks,Total %,Center,Center_Name
+BIH_1,Ashley,,15,10,10,A,Kellyburgh,Melanie Route,F,1,3,2,2,1,1,3,0,3,3,19,30,63.33,BIH,Bihar
+BIH_2,Cynthia,,13,8,8,A,Delacruzbury,Singh Harbors,M,0,1,2,1,4,3,0,3,1,0,15,30,50.0,BIH,Bihar
+BIH_3,Brian,,6,1,1,A,Christopherburgh,Johnson Divide,M,0,0,0,0,1,2,0,2,2,0,7,30,23.33,BIH,Bihar
+BIH_4,Laura,,8,3,3,A,Jeffreyton,David Summit,M,0,3,1,0,4,4,1,1,1,2,17,30,56.67,BIH,Bihar
+BIH_5,Colin,,8,3,3,A,South Kristifort,Lopez Crossroad,M,2,3,1,2,1,3,1,2,3,2,20,30,66.67,BIH,Bihar
+BIH_6,Sarah,,8,3,3,A,New Jose,Juarez Dam,M,2,2,0,2,1,0,2,3,0,2,14,30,46.67,BIH,Bihar
+BIH_7,Kathleen,,16,10,10,A,Jamesstad,Thomas Rest,M,0,1,1,0,0,2,0,2,3,2,11,30,36.67,BIH,Bihar
+BIH_8,Annette,,15,10,10,A,West Billy,Jessica Forest,F,0,2,0,0,2,0,0,3,1,0,8,30,26.67,BIH,Bihar
+BIH_9,Cheryl,,11,6,6,A,East Kari,Christopher Trail,M,0,0,0,2,2,0,3,0,0,1,8,30,26.67,BIH,Bihar
+BIH_10,Kathryn,,11,6,6,A,North Marilynbury,Amber Groves,M,1,4,1,1,0,1,3,1,2,3,17,30,56.67,BIH,Bihar
+BIH_11,Michael,,16,10,10,A,Kimberlytown,Vazquez Station,F,0,2,2,2,4,0,0,3,1,3,17,30,56.67,BIH,Bihar
+BIH_12,Holly,,12,7,7,A,Michaelhaven,Elizabeth Via,F,2,0,0,1,0,1,2,3,3,3,15,30,50.0,BIH,Bihar
+BIH_13,Rebecca,,9,4,4,A,Lake Stacy,Anne Fall,M,2,3,2,1,0,0,3,0,2,3,16,30,53.33,BIH,Bihar
+BIH_14,Sharon,,16,10,10,A,Angelicamouth,Armstrong Lock,F,2,1,2,1,2,0,0,2,2,3,15,30,50.0,BIH,Bihar
+BIH_15,Stephanie,,12,7,7,A,North Alex,Deanna Expressway,M,1,0,0,1,0,0,2,3,1,1,9,30,30.0,BIH,Bihar
+BIH_16,Laura,,16,10,10,A,Port Scott,Todd Falls,M,1,3,1,1,1,2,2,2,1,3,17,30,56.67,BIH,Bihar
+BIH_17,Sergio,,10,5,5,A,Osborneburgh,Michael Meadow,F,0,1,2,2,1,3,2,3,1,2,17,30,56.67,BIH,Bihar
+BIH_18,Jeffrey,,12,7,7,A,Bruceport,Diaz Mission,F,0,0,0,0,0,4,0,1,3,3,11,30,36.67,BIH,Bihar
+BIH_19,Omar,,12,7,7,A,West Maria,Franco Islands,F,0,1,2,1,2,0,2,2,0,0,10,30,33.33,BIH,Bihar
+BIH_20,April,,14,9,9,A,Lake Hunter,James Alley,M,2,0,0,0,1,2,0,0,0,0,5,30,16.67,BIH,Bihar
+BIH_21,Todd,,11,6,6,A,Priceshire,Taylor Plaza,M,2,3,0,2,4,2,0,0,0,1,14,30,46.67,BIH,Bihar
+BIH_22,Victoria,,15,10,10,A,Schroedermouth,Kelley Dam,M,1,3,2,2,3,1,3,2,1,1,19,30,63.33,BIH,Bihar
+BIH_23,Jonathan,,15,10,10,A,West Bethany,Jeffrey Spurs,F,2,3,1,2,4,4,0,0,1,0,17,30,56.67,BIH,Bihar
+BIH_24,Derek,,15,10,10,A,Port William,Jose Drive,F,0,0,0,2,4,2,0,1,3,1,13,30,43.33,BIH,Bihar
+BIH_25,Andrea,,14,9,9,A,East Molly,Holt Road,M,1,2,0,1,3,2,1,0,3,2,15,30,50.0,BIH,Bihar
+BIH_26,Richard,,7,2,2,A,Port Louismouth,Meredith Road,M,2,4,1,1,0,2,1,2,0,2,15,30,50.0,BIH,Bihar
+BIH_27,Marco,,15,10,10,A,North Teresamouth,Timothy Courts,M,2,3,0,1,0,0,0,0,2,3,11,30,36.67,BIH,Bihar
+BIH_28,Julia,,9,4,4,A,New Jeremy,Brian Drive,F,0,4,0,2,1,0,0,0,0,1,8,30,26.67,BIH,Bihar
+BIH_29,Emily,,8,3,3,A,Christinefurt,Jean Mall,M,0,4,0,0,1,2,2,3,1,0,13,30,43.33,BIH,Bihar
+BIH_30,Billy,,14,9,9,A,New Jonathonbury,Castro Port,M,0,4,0,1,3,3,0,1,2,1,15,30,50.0,BIH,Bihar
+BIH_31,Laura,,9,4,4,B,Kellybury,Madeline Fords,M,2,2,1,0,2,1,0,0,1,1,10,30,33.33,BIH,Bihar
+BIH_32,David,,13,8,8,B,West Tammy,Kathryn Lakes,F,2,2,0,2,1,0,3,1,0,3,14,30,46.67,BIH,Bihar
+BIH_33,Daniel,,11,6,6,B,Port Carl,Jamie Ways,M,0,0,0,0,2,1,0,3,1,0,7,30,23.33,BIH,Bihar
+BIH_34,Allen,,8,3,3,B,Johnberg,Wilson Villages,F,0,2,2,2,4,4,0,0,2,0,16,30,53.33,BIH,Bihar
+BIH_35,Heather,,9,4,4,B,Greerland,Spencer Cove,M,0,2,2,1,4,0,2,3,2,2,18,30,60.0,BIH,Bihar
+BIH_36,Gina,,16,10,10,B,Jessicamouth,John Vista,F,2,2,1,1,0,1,1,3,0,0,11,30,36.67,BIH,Bihar
+BIH_37,Kenneth,,14,9,9,B,North Henry,Strickland Springs,F,2,0,1,1,1,3,0,0,3,3,14,30,46.67,BIH,Bihar
+BIH_38,Ashley,,10,5,5,B,Solomonside,Ralph Branch,M,2,4,0,2,1,4,2,3,3,1,22,30,73.33,BIH,Bihar
+BIH_39,Matthew,,15,10,10,B,Robertborough,Foley Pines,M,0,4,0,1,1,0,1,2,1,2,12,30,40.0,BIH,Bihar
+BIH_40,Shaun,,6,1,1,B,West Jessicashire,Carter Creek,F,2,3,1,1,2,1,1,0,2,0,13,30,43.33,BIH,Bihar
+BIH_41,Kimberly,,6,1,1,B,North Mackenzie,Moreno Burg,M,0,0,0,1,4,2,2,1,3,2,15,30,50.0,BIH,Bihar
+BIH_42,Jason,,8,3,3,B,North Larry,Laura Neck,M,2,3,1,1,0,0,1,1,1,0,10,30,33.33,BIH,Bihar
+BIH_43,Kathryn,,6,1,1,B,Port Rebeccachester,Mills Shore,F,2,1,1,1,2,2,1,3,3,2,18,30,60.0,BIH,Bihar
+BIH_44,Katherine,,14,9,9,B,Nashshire,Chase Alley,F,0,2,1,0,2,1,3,0,0,3,12,30,40.0,BIH,Bihar
+BIH_45,Paula,,14,9,9,B,Lake Barbara,Hayden Streets,M,1,2,2,1,3,2,1,1,3,1,17,30,56.67,BIH,Bihar
+BIH_46,Matthew,,16,10,10,B,Murraychester,Riley Plains,M,2,2,1,1,4,4,1,2,3,2,22,30,73.33,BIH,Bihar
+BIH_47,Joseph,,10,5,5,B,South Markside,Padilla Mews,M,0,2,1,1,0,4,1,1,2,0,12,30,40.0,BIH,Bihar
+BIH_48,Jose,,14,9,9,B,Martinezhaven,Brandon Mount,F,1,3,1,0,1,4,2,2,0,0,14,30,46.67,BIH,Bihar
+BIH_49,Joy,,11,6,6,B,Terrytown,Steven Cliffs,F,2,1,0,2,0,3,2,0,2,3,15,30,50.0,BIH,Bihar
+BIH_50,Wendy,,12,7,7,B,Gregoryborough,Flowers Estate,M,2,3,2,1,3,1,3,3,3,3,24,30,80.0,BIH,Bihar
+BIH_51,Cynthia,,12,7,7,B,Leonardburgh,Sandra Green,F,0,2,1,1,2,0,3,0,0,1,10,30,33.33,BIH,Bihar
+BIH_52,Cheyenne,,6,1,1,B,New Jennifer,Alicia Causeway,M,2,0,1,2,2,3,1,2,0,0,13,30,43.33,BIH,Bihar
+BIH_53,Stephen,,15,10,10,B,Micheleland,Buckley Shoals,F,2,1,0,1,0,1,2,0,3,1,11,30,36.67,BIH,Bihar
+BIH_54,Danielle,,13,8,8,B,New Lindsey,Lewis Course,F,2,0,2,2,2,0,3,0,3,3,17,30,56.67,BIH,Bihar
+BIH_55,Kelly,,16,10,10,B,East Dennismouth,Alexander Mills,M,0,0,0,1,4,1,0,3,0,3,12,30,40.0,BIH,Bihar
+BIH_56,Charles,,12,7,7,B,New Phillip,Nguyen Locks,M,0,2,2,2,3,1,3,3,3,2,21,30,70.0,BIH,Bihar
+BIH_57,Charles,,12,7,7,B,Steventon,Janice Station,M,1,2,2,2,3,1,3,0,1,0,15,30,50.0,BIH,Bihar
+BIH_58,Dawn,,13,8,8,B,Caitlynport,Kristen Creek,M,2,1,1,2,1,3,0,0,0,3,13,30,43.33,BIH,Bihar
+BIH_59,Andrea,,15,10,10,B,Mariamouth,Tanya Club,M,0,2,2,2,2,2,0,2,0,1,13,30,43.33,BIH,Bihar
+BIH_60,Melissa,,11,6,6,B,East Judithhaven,Seth Loaf,F,0,0,2,2,0,3,0,1,1,1,10,30,33.33,BIH,Bihar
+BIH_61,Sarah,,9,4,4,C,Jackview,Graham Crescent,M,0,1,0,2,2,1,2,3,0,2,13,30,43.33,BIH,Bihar
+BIH_62,Jennifer,,16,10,10,C,East Colleen,Williams Camp,M,0,2,0,1,0,3,3,1,2,3,15,30,50.0,BIH,Bihar
+BIH_63,Kevin,,7,2,2,C,Lake Jameschester,Noah Dam,F,0,2,1,0,1,4,3,0,1,2,14,30,46.67,BIH,Bihar
+BIH_64,Mary,,11,6,6,C,West Thomasmouth,Forbes Plain,F,1,4,2,2,1,4,1,3,0,2,20,30,66.67,BIH,Bihar
+BIH_65,Daniel,,14,9,9,C,New Derek,Cox Green,F,0,3,0,1,3,3,1,1,3,3,18,30,60.0,BIH,Bihar
+BIH_66,Diana,,8,3,3,C,Joseport,Hernandez Crescent,M,1,4,0,1,3,0,1,1,0,3,14,30,46.67,BIH,Bihar
+BIH_67,Ryan,,16,10,10,C,Johnport,Strong Forest,F,1,3,0,0,0,3,2,0,2,0,11,30,36.67,BIH,Bihar
+BIH_68,Martin,,7,2,2,C,Fosterhaven,Miller Haven,F,1,0,1,0,1,3,2,0,0,1,9,30,30.0,BIH,Bihar
+BIH_69,Joshua,,10,5,5,C,Stephenschester,Johnson Square,F,0,1,1,2,0,3,2,3,1,0,13,30,43.33,BIH,Bihar
+BIH_70,Samantha,,6,1,1,C,Marquezhaven,Mark Pass,F,2,4,0,2,0,4,3,0,1,3,19,30,63.33,BIH,Bihar
+BIH_71,Robert,,6,1,1,C,Greenefort,Lin Plaza,M,2,0,1,1,3,3,0,2,3,2,17,30,56.67,BIH,Bihar
+BIH_72,Christopher,,6,1,1,C,Frankbury,Clayton Row,F,2,2,0,2,0,3,1,0,2,0,12,30,40.0,BIH,Bihar
+BIH_73,Janet,,13,8,8,C,West Nicoleland,Rebecca Meadows,M,1,4,0,2,4,1,2,0,1,0,15,30,50.0,BIH,Bihar
+BIH_74,Veronica,,11,6,6,C,New Jamesfort,Donald Springs,M,0,1,0,0,2,3,3,3,1,1,14,30,46.67,BIH,Bihar
+BIH_75,Sarah,,15,10,10,C,Donnaton,Judith Glen,F,2,2,1,2,4,1,0,2,1,2,17,30,56.67,BIH,Bihar
+BIH_76,Roy,,6,1,1,C,Jenniferfort,Edward Light,M,0,1,0,2,0,0,3,2,0,1,9,30,30.0,BIH,Bihar
+BIH_77,Jon,,11,6,6,C,Lake Robert,Carol Valleys,F,0,1,1,1,0,3,0,1,3,1,11,30,36.67,BIH,Bihar
+BIH_78,Oscar,,12,7,7,C,Anthonyberg,Thomas Drives,M,1,1,0,0,0,2,1,1,0,2,8,30,26.67,BIH,Bihar
+BIH_79,Brittany,,10,5,5,C,New Laurafort,Owen Turnpike,F,0,4,1,0,3,2,1,3,2,3,19,30,63.33,BIH,Bihar
+BIH_80,Douglas,,7,2,2,C,Lake Ashley,Brent Bypass,M,2,3,2,1,4,3,0,1,2,1,19,30,63.33,BIH,Bihar
+BIH_81,Pamela,,11,6,6,C,North Stevenport,Jeremy Divide,M,1,2,2,1,3,0,1,3,0,1,14,30,46.67,BIH,Bihar
+BIH_82,Terrence,,6,1,1,C,New Luisborough,Hale Turnpike,F,2,1,1,0,3,4,0,1,0,3,15,30,50.0,BIH,Bihar
+BIH_83,Gina,,9,4,4,C,Lake Susan,Miller Track,M,0,3,2,2,0,3,3,2,2,3,20,30,66.67,BIH,Bihar
+BIH_84,Samantha,,14,9,9,C,New Matthewbury,Watts Greens,M,1,4,2,0,1,3,2,0,2,3,18,30,60.0,BIH,Bihar
+BIH_85,Brandi,,9,4,4,C,Port Patrickbury,Paul Place,M,2,4,2,2,3,4,3,0,1,0,21,30,70.0,BIH,Bihar
+BIH_86,Joseph,,6,1,1,C,Perryberg,Keller Groves,M,0,3,2,2,3,3,3,2,2,2,22,30,73.33,BIH,Bihar
+BIH_87,James,,12,7,7,C,North Mollyberg,Craig Squares,M,0,1,1,0,0,1,3,0,1,1,8,30,26.67,BIH,Bihar
+BIH_88,Kathryn,,8,3,3,C,Lake Moniquefort,Shelly Trail,M,0,2,2,1,3,3,2,1,2,3,19,30,63.33,BIH,Bihar
+BIH_89,Jack,,10,5,5,C,New Williamborough,Connie Isle,M,2,0,1,1,3,1,2,0,3,3,16,30,53.33,BIH,Bihar
+BIH_90,Dawn,,12,7,7,C,Lake Natalie,Johnson Key,M,1,2,1,0,1,1,3,3,0,0,12,30,40.0,BIH,Bihar
+BIH_91,George,,14,9,9,D,West Lisa,Sharp Terrace,M,0,1,0,2,1,2,2,3,2,1,14,30,46.67,BIH,Bihar
+BIH_92,Todd,,13,8,8,D,East Elizabeth,James Ford,M,2,0,2,1,0,3,2,3,0,3,16,30,53.33,BIH,Bihar
+BIH_93,Cynthia,,13,8,8,D,Lake Rebecca,Gardner Trail,F,2,4,0,2,4,1,3,1,1,3,21,30,70.0,BIH,Bihar
+BIH_94,David,,15,10,10,D,New Sonyaton,Paula Rapid,M,0,1,0,0,0,3,2,2,0,1,9,30,30.0,BIH,Bihar
+BIH_95,Andrea,,11,6,6,D,Jonathanburgh,Oscar Parks,M,1,3,1,0,3,3,1,3,2,1,18,30,60.0,BIH,Bihar
+BIH_96,Terri,,7,2,2,D,Dunlaptown,Danielle Route,M,0,0,1,1,1,4,1,2,3,0,13,30,43.33,BIH,Bihar
+BIH_97,Denise,,15,10,10,D,East Abigailmouth,Bill Parkway,M,0,2,2,2,2,0,2,1,3,1,15,30,50.0,BIH,Bihar
+BIH_98,Charles,,13,8,8,D,Cookberg,Madden Forges,M,1,1,0,0,2,4,3,2,2,2,17,30,56.67,BIH,Bihar
+BIH_99,Daniel,,9,4,4,D,Sullivanstad,Singleton Cliff,M,1,0,1,1,3,3,0,0,1,0,10,30,33.33,BIH,Bihar
+BIH_100,Tiffany,,10,5,5,D,New Matthew,Herring Route,F,2,3,2,2,1,2,0,2,1,2,17,30,56.67,BIH,Bihar
+BIH_101,Jacqueline,,10,5,5,D,Smithview,Jonathan Greens,M,0,1,0,0,1,3,1,2,3,2,13,30,43.33,BIH,Bihar
+BIH_102,Kathleen,,6,1,1,D,West Fernandoburgh,Jennifer Estates,F,1,3,1,0,3,3,3,3,3,0,20,30,66.67,BIH,Bihar
+BIH_103,Richard,,10,5,5,D,Wallaceville,Kerry View,F,1,4,2,2,4,0,3,0,0,3,19,30,63.33,BIH,Bihar
+BIH_104,Crystal,,6,1,1,D,Jessicaville,Williams Crossing,F,2,1,0,1,2,1,1,3,2,1,14,30,46.67,BIH,Bihar
+BIH_105,Karen,,16,10,10,D,Montgomeryborough,Thomas Mountain,F,2,4,0,0,2,2,2,1,3,3,19,30,63.33,BIH,Bihar
+BIH_106,Shane,,11,6,6,D,Vickieton,Michele Field,F,1,4,2,2,3,0,3,2,0,2,19,30,63.33,BIH,Bihar
+BIH_107,John,,13,8,8,D,Gardnerport,Tiffany Mill,M,2,4,1,1,1,0,3,1,2,0,15,30,50.0,BIH,Bihar
+BIH_108,Amanda,,12,7,7,D,Davidtown,Nathan Inlet,M,2,2,0,1,4,3,0,1,0,0,13,30,43.33,BIH,Bihar
+BIH_109,Rhonda,,8,3,3,D,Alyssamouth,Cruz Avenue,F,2,2,0,0,4,3,2,0,1,2,16,30,53.33,BIH,Bihar
+BIH_110,Tamara,,12,7,7,D,Schmidtside,Garrett Center,F,1,0,2,0,0,4,3,1,1,1,13,30,43.33,BIH,Bihar
+BIH_111,Melissa,,8,3,3,D,Oliviabury,Cox Mills,M,1,2,1,1,4,0,0,0,1,2,12,30,40.0,BIH,Bihar
+BIH_112,Erika,,8,3,3,D,Lake Meagan,Troy Estates,F,0,4,0,1,4,0,3,0,0,3,15,30,50.0,BIH,Bihar
+BIH_113,Larry,,10,5,5,D,West Brianport,Hall Roads,F,2,3,1,1,1,3,2,3,0,2,18,30,60.0,BIH,Bihar
+BIH_114,Steven,,7,2,2,D,Brandonton,Gonzalez Ranch,M,1,4,2,2,0,1,1,2,3,0,16,30,53.33,BIH,Bihar
+BIH_115,Michael,,12,7,7,D,Tammyburgh,Mendez Wells,M,2,2,2,2,2,3,3,0,0,3,19,30,63.33,BIH,Bihar
+BIH_116,Tyler,,16,10,10,D,South Nancy,Kenneth Shore,M,0,1,2,1,2,0,1,0,3,0,10,30,33.33,BIH,Bihar
+BIH_117,Lori,,9,4,4,D,New Charles,Brian Mall,M,2,1,0,1,2,3,0,2,1,1,13,30,43.33,BIH,Bihar
+BIH_118,Sean,,9,4,4,D,Lake Crystal,Robin Landing,F,0,0,1,1,3,2,1,1,3,3,15,30,50.0,BIH,Bihar
+BIH_119,Daisy,,6,1,1,D,Juliebury,Leon Stravenue,M,2,3,1,0,4,3,1,1,1,0,16,30,53.33,BIH,Bihar
+BIH_120,Gloria,,10,5,5,D,Port Sergiohaven,Taylor Springs,F,0,0,1,2,2,3,0,2,0,2,12,30,40.0,BIH,Bihar
+BIH_121,Jonathan,,10,5,5,E,New Daniel,Patrick Inlet,M,2,3,2,1,1,3,2,1,2,2,19,30,63.33,BIH,Bihar
+BIH_122,Amanda,,7,2,2,E,Gabrielmouth,Angela Extensions,F,2,3,2,1,1,0,0,1,0,2,12,30,40.0,BIH,Bihar
+BIH_123,Katie,,9,4,4,E,Denisebury,Nichols Mountains,M,2,0,1,0,3,2,0,2,3,2,15,30,50.0,BIH,Bihar
+BIH_124,Christina,,11,6,6,E,West Christina,Bartlett Dam,M,0,3,1,0,3,1,3,2,0,3,16,30,53.33,BIH,Bihar
+BIH_125,Samantha,,14,9,9,E,Port Justinport,Ryan Curve,M,2,0,0,0,1,3,1,0,3,0,10,30,33.33,BIH,Bihar
+BIH_126,Brenda,,9,4,4,E,Hancockhaven,Bobby Road,F,0,1,2,2,4,3,2,3,0,1,18,30,60.0,BIH,Bihar
+BIH_127,Richard,,14,9,9,E,Anthonymouth,Gonzalez Turnpike,F,1,2,1,1,4,4,2,2,1,3,21,30,70.0,BIH,Bihar
+BIH_128,Austin,,15,10,10,E,Adamshire,Margaret Street,F,2,2,1,0,3,4,0,2,2,0,16,30,53.33,BIH,Bihar
+BIH_129,Nathan,,14,9,9,E,Torresland,Weiss Lake,M,1,4,2,0,3,3,0,0,1,3,17,30,56.67,BIH,Bihar
+BIH_130,Karla,,10,5,5,E,Port Daniellebury,Jessica Square,M,2,2,1,1,2,2,1,3,1,1,16,30,53.33,BIH,Bihar
+BIH_131,Philip,,14,9,9,E,North Mariastad,Stark Forge,F,1,0,2,2,4,2,0,1,0,1,13,30,43.33,BIH,Bihar
+BIH_132,Dennis,,7,2,2,E,Chaneybury,Charles Path,F,1,1,1,0,0,2,2,1,2,3,13,30,43.33,BIH,Bihar
+BIH_133,Adam,,7,2,2,E,Baileymouth,Melissa Pines,F,2,1,0,1,4,3,2,3,0,0,16,30,53.33,BIH,Bihar
+BIH_134,Erin,,11,6,6,E,North Margaretchester,Brooke View,M,0,4,0,0,1,0,3,2,0,3,13,30,43.33,BIH,Bihar
+BIH_135,Nicholas,,8,3,3,E,East Robert,Roger Pines,M,1,3,1,1,2,4,0,3,2,2,19,30,63.33,BIH,Bihar
+BIH_136,Matthew,,6,1,1,E,Tanyaside,Melissa Well,M,1,3,0,2,1,4,3,1,0,2,17,30,56.67,BIH,Bihar
+BIH_137,Jennifer,,12,7,7,E,West Walter,Hernandez Well,F,2,4,1,2,3,1,0,0,1,0,14,30,46.67,BIH,Bihar
+BIH_138,Daniel,,8,3,3,E,Port Jerome,Mendez Burgs,F,0,0,1,0,2,3,2,1,0,0,9,30,30.0,BIH,Bihar
+BIH_139,Dustin,,15,10,10,E,New Jeffville,Smith Freeway,F,0,4,1,2,4,4,3,1,0,1,20,30,66.67,BIH,Bihar
+BIH_140,Shannon,,8,3,3,E,North Holly,Wilson Burg,M,2,3,0,0,1,1,2,0,2,1,12,30,40.0,BIH,Bihar
+BIH_141,Holly,,7,2,2,E,Raystad,Crawford Crossing,F,0,2,0,1,4,4,3,3,1,1,19,30,63.33,BIH,Bihar
+BIH_142,Carl,,15,10,10,E,West Gregoryburgh,Tammy Port,F,1,4,0,0,4,3,3,3,2,0,20,30,66.67,BIH,Bihar
+BIH_143,Connie,,10,5,5,E,North Brandon,Hensley Ville,M,2,2,1,2,2,3,1,0,0,0,13,30,43.33,BIH,Bihar
+BIH_144,Christine,,14,9,9,E,Maryville,Dunn Crossing,M,1,0,1,0,2,4,2,3,1,1,15,30,50.0,BIH,Bihar
+BIH_145,Raymond,,15,10,10,E,Hutchinsonstad,Casey Center,M,2,1,0,1,0,1,1,0,0,3,9,30,30.0,BIH,Bihar
+BIH_146,Cristina,,6,1,1,E,East Tara,Villanueva Plains,F,2,2,0,0,0,4,1,1,3,0,13,30,43.33,BIH,Bihar
+BIH_147,Shawn,,10,5,5,E,Markberg,Amy Extension,F,0,1,2,1,2,2,1,3,3,3,18,30,60.0,BIH,Bihar
+BIH_148,Rebecca,,16,10,10,E,Gutierrezfort,Derrick Well,F,0,1,1,1,0,3,0,1,1,2,10,30,33.33,BIH,Bihar
+BIH_149,Diana,,11,6,6,E,Calhounport,Shawn Place,M,2,3,1,1,1,0,0,1,0,3,12,30,40.0,BIH,Bihar
+BIH_150,Jessica,,13,8,8,E,North Linda,Potter Squares,F,1,3,0,1,4,4,0,2,1,3,19,30,63.33,BIH,Bihar
+PAT_1,Paul,,13,8,8,A,Martinborough,Cabrera Cliff,M,2,3,0,2,3,0,0,0,0,2,12,30,40.0,PAT,Patna
+PAT_2,Jeremy,,14,9,9,A,Alexanderport,Campbell Circle,M,1,3,0,1,1,2,2,0,3,3,16,30,53.33,PAT,Patna
+PAT_3,Jeffrey,,11,6,6,A,Port Lisaville,Good Ways,F,0,0,2,0,3,2,0,2,0,0,9,30,30.0,PAT,Patna
+PAT_4,Rachael,,13,8,8,A,Juarezmouth,Denise Ville,M,1,3,0,0,4,1,0,2,0,3,14,30,46.67,PAT,Patna
+PAT_5,Dawn,,7,2,2,A,South Lindsey,Paige Walks,M,2,0,2,0,1,4,2,1,0,3,15,30,50.0,PAT,Patna
+PAT_6,Jason,,15,10,10,A,West Johnland,Bush Fork,F,1,0,0,0,2,3,0,1,1,2,10,30,33.33,PAT,Patna
+PAT_7,Ashley,,8,3,3,A,Stacymouth,Eric Forge,F,2,2,0,1,0,0,1,1,0,2,9,30,30.0,PAT,Patna
+PAT_8,Jason,,13,8,8,A,Simmonston,Landry Tunnel,F,2,4,2,0,0,4,3,2,2,1,20,30,66.67,PAT,Patna
+PAT_9,Jason,,13,8,8,A,Waltersside,Joshua Causeway,M,2,2,2,1,3,1,3,3,2,0,19,30,63.33,PAT,Patna
+PAT_10,Jennifer,,8,3,3,A,Cathychester,Janet Forges,M,2,0,2,0,3,0,0,0,1,0,8,30,26.67,PAT,Patna
+PAT_11,Isaiah,,9,4,4,A,Wesleybury,Adams Manors,M,0,2,1,2,4,1,1,0,2,3,16,30,53.33,PAT,Patna
+PAT_12,Dylan,,9,4,4,A,Poolestad,Scott Track,F,1,1,2,1,1,3,3,0,0,1,13,30,43.33,PAT,Patna
+PAT_13,Elizabeth,,7,2,2,A,Thomasshire,Johnson Divide,M,0,4,2,2,2,3,0,1,1,2,17,30,56.67,PAT,Patna
+PAT_14,Jessica,,12,7,7,A,North Jessicamouth,Keith Bridge,M,0,3,0,1,0,3,2,1,3,2,15,30,50.0,PAT,Patna
+PAT_15,Vincent,,16,10,10,A,West Ronaldfurt,Martinez Orchard,F,1,2,1,1,4,1,2,2,2,0,16,30,53.33,PAT,Patna
+PAT_16,Shelby,,7,2,2,A,Rhondaview,Julie Station,M,1,1,1,0,2,3,1,3,0,3,15,30,50.0,PAT,Patna
+PAT_17,Cindy,,8,3,3,A,Melissafort,Baldwin Field,M,0,3,0,2,3,4,0,1,2,1,16,30,53.33,PAT,Patna
+PAT_18,Samantha,,13,8,8,A,North Martin,Jeanne Point,F,1,0,2,0,4,1,1,2,2,0,13,30,43.33,PAT,Patna
+PAT_19,Mark,,11,6,6,A,East Robertbury,Tyler Union,M,1,3,1,1,3,1,0,2,2,2,16,30,53.33,PAT,Patna
+PAT_20,Clifford,,8,3,3,A,Tammyhaven,Kim Spring,M,1,1,0,1,2,4,0,1,1,2,13,30,43.33,PAT,Patna
+PAT_21,George,,15,10,10,A,South Samuelport,Welch Road,F,1,3,2,2,1,0,0,0,2,2,13,30,43.33,PAT,Patna
+PAT_22,Gina,,12,7,7,A,Chapmanland,Michael Forks,M,0,0,1,2,0,0,1,1,2,0,7,30,23.33,PAT,Patna
+PAT_23,Daniel,,6,1,1,A,Andrewstad,Valenzuela Village,M,0,0,0,1,0,4,0,1,0,1,7,30,23.33,PAT,Patna
+PAT_24,Richard,,11,6,6,A,Alvarezbury,Michael Underpass,M,1,4,0,0,2,3,3,0,2,1,16,30,53.33,PAT,Patna
+PAT_25,Joan,,6,1,1,A,South Kaitlinport,Heather Drive,M,2,4,2,2,1,3,3,2,0,3,22,30,73.33,PAT,Patna
+PAT_26,Lynn,,6,1,1,A,Gilbertside,Theresa Ridge,M,1,1,0,1,0,2,0,2,3,1,11,30,36.67,PAT,Patna
+PAT_27,Douglas,,13,8,8,A,Ronaldport,Johnny Mountain,M,1,1,2,2,2,2,1,1,1,0,13,30,43.33,PAT,Patna
+PAT_28,Wesley,,8,3,3,A,Port Ambermouth,James Heights,F,1,2,0,0,0,0,1,0,1,0,5,30,16.67,PAT,Patna
+PAT_29,Katherine,,6,1,1,A,Morseborough,Kristen Mission,F,1,1,2,2,1,3,2,0,3,0,15,30,50.0,PAT,Patna
+PAT_30,Andrew,,16,10,10,A,New Shelleymouth,Rachel Hill,M,2,2,0,2,4,0,1,1,2,0,14,30,46.67,PAT,Patna
+PAT_31,Christopher,,6,1,1,B,South Robert,Holloway Course,F,1,0,2,2,1,1,0,3,0,2,12,30,40.0,PAT,Patna
+PAT_32,Helen,,12,7,7,B,New Isaac,Patricia Island,F,2,0,0,2,2,3,0,2,3,1,15,30,50.0,PAT,Patna
+PAT_33,Paige,,7,2,2,B,Port Kevinside,Williams Port,M,0,2,1,1,4,0,0,3,3,1,15,30,50.0,PAT,Patna
+PAT_34,Paul,,6,1,1,B,Michaelamouth,Williams Isle,F,1,0,1,2,2,1,1,1,2,3,14,30,46.67,PAT,Patna
+PAT_35,Oscar,,10,5,5,B,West Rachel,Smith Via,F,0,3,0,1,1,4,3,2,3,1,18,30,60.0,PAT,Patna
+PAT_36,Mark,,11,6,6,B,Samanthafort,Hughes Field,M,2,2,1,2,4,0,2,1,0,1,15,30,50.0,PAT,Patna
+PAT_37,Jessica,,11,6,6,B,Lanebury,Gonzalez Wall,F,1,1,0,2,3,2,2,2,1,0,14,30,46.67,PAT,Patna
+PAT_38,Robert,,12,7,7,B,Port Markmouth,Christian Mountain,F,1,0,1,1,2,2,1,3,3,3,17,30,56.67,PAT,Patna
+PAT_39,Dean,,13,8,8,B,Simonhaven,Troy Centers,M,2,0,0,2,3,2,0,2,2,2,15,30,50.0,PAT,Patna
+PAT_40,Hector,,11,6,6,B,North Marioburgh,Baxter Mall,M,0,1,0,2,4,2,1,2,1,3,16,30,53.33,PAT,Patna
+PAT_41,Danielle,,9,4,4,B,Tammyside,Robinson Brooks,F,2,0,0,0,4,2,1,2,1,3,15,30,50.0,PAT,Patna
+PAT_42,Patrick,,6,1,1,B,Davismouth,Bailey Flats,M,0,1,1,2,0,2,0,3,0,3,12,30,40.0,PAT,Patna
+PAT_43,Kristen,,12,7,7,B,South Elizabethchester,Megan Island,F,0,4,0,2,0,4,3,3,0,1,17,30,56.67,PAT,Patna
+PAT_44,William,,7,2,2,B,Port Crystalberg,Michael Meadow,F,1,4,1,0,1,2,2,1,3,2,17,30,56.67,PAT,Patna
+PAT_45,Kristina,,11,6,6,B,North Erikafurt,Wallace Gardens,F,1,0,2,0,1,2,0,1,1,1,9,30,30.0,PAT,Patna
+PAT_46,Brendan,,9,4,4,B,Gabrielamouth,Laurie Plains,F,2,2,0,2,3,3,0,2,3,1,18,30,60.0,PAT,Patna
+PAT_47,Maxwell,,10,5,5,B,North Davidborough,William Grove,M,1,4,2,1,4,4,2,0,2,1,21,30,70.0,PAT,Patna
+PAT_48,Christopher,,13,8,8,B,Meganfurt,Wilson Dale,M,2,3,2,1,3,3,2,1,0,2,19,30,63.33,PAT,Patna
+PAT_49,Lisa,,14,9,9,B,Greerborough,Krause Extensions,M,1,3,2,1,1,0,0,1,1,2,12,30,40.0,PAT,Patna
+PAT_50,Jessica,,8,3,3,B,Lake Peterbury,Morrison Ridge,M,1,3,0,1,1,3,0,1,2,0,12,30,40.0,PAT,Patna
+PAT_51,Lindsey,,9,4,4,B,East Anthonyland,Timothy Port,M,2,0,2,2,1,4,2,3,0,3,19,30,63.33,PAT,Patna
+PAT_52,Sean,,16,10,10,B,Chavezburgh,Davis Crescent,F,2,3,0,0,4,0,0,2,2,0,13,30,43.33,PAT,Patna
+PAT_53,Sarah,,6,1,1,B,South Shannon,Jacqueline Locks,M,2,2,1,2,0,2,1,3,2,1,16,30,53.33,PAT,Patna
+PAT_54,Donald,,10,5,5,B,South Michael,Hill Loop,M,1,4,0,0,0,1,0,1,3,2,12,30,40.0,PAT,Patna
+PAT_55,Randy,,12,7,7,B,South Coreyhaven,Goodwin Well,M,1,4,1,2,4,0,0,2,1,0,15,30,50.0,PAT,Patna
+PAT_56,Sabrina,,9,4,4,B,West Stacey,Anthony Isle,M,2,1,1,1,4,2,0,2,3,0,16,30,53.33,PAT,Patna
+PAT_57,Dawn,,12,7,7,B,Anthonyside,Brown Green,M,1,2,1,1,3,3,2,1,1,0,15,30,50.0,PAT,Patna
+PAT_58,Kristen,,7,2,2,B,Dennismouth,Mclaughlin Parks,F,0,0,1,1,3,1,1,1,1,1,10,30,33.33,PAT,Patna
+PAT_59,Courtney,,12,7,7,B,Jonesbury,Jordan Fork,F,1,1,0,2,1,4,0,3,0,1,13,30,43.33,PAT,Patna
+PAT_60,Darius,,12,7,7,B,Katiemouth,Tina Burgs,F,0,3,1,0,4,1,3,3,0,0,15,30,50.0,PAT,Patna
+PAT_61,Samantha,,8,3,3,C,Lake Jimmy,Matthew Mission,F,2,4,1,2,3,3,0,1,0,2,18,30,60.0,PAT,Patna
+PAT_62,Monica,,14,9,9,C,West Lisaland,Owens Lane,M,2,0,0,1,1,2,1,3,3,2,15,30,50.0,PAT,Patna
+PAT_63,Samantha,,14,9,9,C,Kimville,Colon Mountain,F,0,2,2,1,3,3,3,0,3,2,19,30,63.33,PAT,Patna
+PAT_64,Tiffany,,7,2,2,C,Swansonhaven,Shannon Mountain,M,1,4,2,1,4,1,1,3,2,1,20,30,66.67,PAT,Patna
+PAT_65,Scott,,16,10,10,C,Jacksonville,Beck Summit,F,1,3,2,2,3,2,0,1,1,3,18,30,60.0,PAT,Patna
+PAT_66,Donald,,13,8,8,C,East Josephview,Cunningham Street,F,0,4,0,1,4,2,2,1,0,3,17,30,56.67,PAT,Patna
+PAT_67,Aaron,,15,10,10,C,Phillipton,Austin Ferry,F,2,1,1,1,0,0,0,0,2,3,10,30,33.33,PAT,Patna
+PAT_68,Ernest,,11,6,6,C,Davidmouth,Kimberly Expressway,M,2,4,1,1,4,4,0,3,3,1,23,30,76.67,PAT,Patna
+PAT_69,Joshua,,10,5,5,C,New Sarahfort,James Plaza,M,2,1,2,2,2,0,0,0,1,0,10,30,33.33,PAT,Patna
+PAT_70,Sarah,,6,1,1,C,East Brian,Jacqueline Crescent,F,2,3,2,0,3,3,0,3,0,0,16,30,53.33,PAT,Patna
+PAT_71,Joshua,,10,5,5,C,Gomezbury,Parker Cape,F,1,1,1,1,2,4,2,1,2,3,18,30,60.0,PAT,Patna
+PAT_72,Michael,,13,8,8,C,Port Jessica,Hanson Junction,M,1,3,1,0,0,2,0,3,3,1,14,30,46.67,PAT,Patna
+PAT_73,Christina,,11,6,6,C,West Jessicaview,Brown Village,F,1,3,1,0,2,0,1,3,2,2,15,30,50.0,PAT,Patna
+PAT_74,Jennifer,,8,3,3,C,North Dana,Sara Squares,F,0,2,1,1,3,4,2,3,3,2,21,30,70.0,PAT,Patna
+PAT_75,Chase,,13,8,8,C,Lake Jessica,Pamela Crest,F,2,3,1,0,0,3,2,1,3,3,18,30,60.0,PAT,Patna
+PAT_76,Joshua,,7,2,2,C,West Meganhaven,Sullivan Green,F,2,2,0,1,4,3,2,1,0,2,17,30,56.67,PAT,Patna
+PAT_77,Jenna,,15,10,10,C,East Cynthiaborough,Pamela Underpass,M,2,0,1,2,4,3,0,2,2,2,18,30,60.0,PAT,Patna
+PAT_78,Michelle,,13,8,8,C,North Erica,Johnson Meadows,M,0,4,0,0,2,1,1,2,0,3,13,30,43.33,PAT,Patna
+PAT_79,Catherine,,7,2,2,C,South Trevor,Megan Path,F,2,0,0,0,3,3,3,3,1,2,17,30,56.67,PAT,Patna
+PAT_80,Carrie,,15,10,10,C,Lake Sydney,Herrera Ramp,F,2,4,2,1,1,2,3,3,2,0,20,30,66.67,PAT,Patna
+PAT_81,Caitlyn,,10,5,5,C,Powellview,Jennifer Cape,F,2,4,2,0,4,0,1,0,3,3,19,30,63.33,PAT,Patna
+PAT_82,Elizabeth,,11,6,6,C,Port Adamberg,Phyllis Station,F,1,1,0,2,4,4,3,0,1,3,19,30,63.33,PAT,Patna
+PAT_83,Christopher,,12,7,7,C,Samuelside,Nicole Estates,F,0,3,0,1,0,1,1,3,2,2,13,30,43.33,PAT,Patna
+PAT_84,Debra,,13,8,8,C,Andersonmouth,Roy Ways,F,2,1,0,1,4,3,2,2,3,1,19,30,63.33,PAT,Patna
+PAT_85,Stephen,,9,4,4,C,Jennyborough,David Plain,M,2,1,2,1,1,0,3,2,1,3,16,30,53.33,PAT,Patna
+PAT_86,James,,9,4,4,C,Whiteville,Ritter Crescent,M,1,2,2,0,0,3,3,0,1,1,13,30,43.33,PAT,Patna
+PAT_87,Rebecca,,16,10,10,C,Richardton,Tina Cape,F,1,0,0,2,3,3,0,3,3,2,17,30,56.67,PAT,Patna
+PAT_88,Sheila,,12,7,7,C,Stevenbury,Hill Corners,F,1,2,0,0,0,2,1,2,2,0,10,30,33.33,PAT,Patna
+PAT_89,Manuel,,10,5,5,C,Charlestown,Corey Station,F,1,3,2,1,1,2,1,0,3,3,17,30,56.67,PAT,Patna
+PAT_90,Logan,,6,1,1,C,Jonesstad,Stone Squares,F,1,3,2,2,1,3,3,0,3,0,18,30,60.0,PAT,Patna
+PAT_91,Donna,,7,2,2,D,Michaelfort,Gomez Bypass,M,1,4,1,2,0,3,2,1,0,2,16,30,53.33,PAT,Patna
+PAT_92,Patricia,,12,7,7,D,Walterfort,Johnson Vista,F,2,0,1,1,4,1,2,3,1,3,18,30,60.0,PAT,Patna
+PAT_93,Brenda,,14,9,9,D,New Brandonfort,Roy Trail,M,2,2,1,2,2,3,3,1,1,1,18,30,60.0,PAT,Patna
+PAT_94,Douglas,,8,3,3,D,New Kathleen,Megan Overpass,F,2,1,2,0,3,2,2,0,2,2,16,30,53.33,PAT,Patna
+PAT_95,Laura,,6,1,1,D,West Michelleshire,Peters Freeway,M,2,1,1,1,1,1,1,3,3,3,17,30,56.67,PAT,Patna
+PAT_96,Joanna,,6,1,1,D,Lake Katiehaven,Williams Brooks,M,2,0,2,1,2,0,1,3,1,2,14,30,46.67,PAT,Patna
+PAT_97,Nicholas,,8,3,3,D,Lake Sandramouth,Bailey Stravenue,M,0,3,2,2,1,0,3,3,2,1,17,30,56.67,PAT,Patna
+PAT_98,Steven,,6,1,1,D,Scottfurt,Norris Station,M,0,0,1,1,3,1,3,0,3,2,14,30,46.67,PAT,Patna
+PAT_99,Matthew,,14,9,9,D,New Christine,Stephanie Dale,F,1,0,1,2,3,1,3,2,2,3,18,30,60.0,PAT,Patna
+PAT_100,Maria,,8,3,3,D,Port Thomas,Lewis Bypass,M,2,0,1,0,2,0,1,2,0,0,8,30,26.67,PAT,Patna
+PAT_101,Anthony,,7,2,2,D,Barkerport,Bond Wall,F,2,0,0,0,4,4,1,2,3,3,19,30,63.33,PAT,Patna
+PAT_102,Tracey,,11,6,6,D,Chavezhaven,Sandra Fort,F,1,1,2,0,1,0,3,0,1,0,9,30,30.0,PAT,Patna
+PAT_103,Ronald,,9,4,4,D,Lake Stevenport,Jacob Squares,F,2,3,2,1,1,0,1,1,1,0,12,30,40.0,PAT,Patna
+PAT_104,Jeremiah,,16,10,10,D,Port Jonathantown,Jennifer Views,F,0,0,1,1,3,4,3,2,0,0,14,30,46.67,PAT,Patna
+PAT_105,Amy,,10,5,5,D,North Andrew,Douglas Knolls,M,1,2,0,2,1,3,3,3,3,3,21,30,70.0,PAT,Patna
+PAT_106,Robert,,10,5,5,D,Mitchellside,Gordon Vista,M,0,0,2,2,0,2,0,2,2,3,13,30,43.33,PAT,Patna
+PAT_107,Brenda,,13,8,8,D,Lake Williamchester,Jessica Streets,M,1,1,0,1,0,3,2,0,2,3,13,30,43.33,PAT,Patna
+PAT_108,Katherine,,11,6,6,D,Andreaburgh,Thomas Skyway,M,1,0,2,1,0,4,0,1,3,2,14,30,46.67,PAT,Patna
+PAT_109,Jared,,10,5,5,D,South Lisa,Dylan Crossroad,M,0,0,2,0,1,4,0,1,1,1,10,30,33.33,PAT,Patna
+PAT_110,Kathleen,,6,1,1,D,North Jessicafurt,Davies Road,M,0,4,2,2,1,1,0,3,1,2,16,30,53.33,PAT,Patna
+PAT_111,Carrie,,12,7,7,D,North Victoriatown,Joseph Falls,F,2,3,2,2,1,3,2,3,0,2,20,30,66.67,PAT,Patna
+PAT_112,Nathan,,9,4,4,D,Lake Elizabeth,James Station,M,1,1,2,1,4,2,1,3,0,1,16,30,53.33,PAT,Patna
+PAT_113,Mackenzie,,9,4,4,D,New Robertbury,Karen Springs,M,2,4,0,0,0,0,2,1,2,1,12,30,40.0,PAT,Patna
+PAT_114,Craig,,14,9,9,D,North Eric,Perez Light,F,1,1,1,1,3,1,1,3,3,1,16,30,53.33,PAT,Patna
+PAT_115,Lori,,6,1,1,D,Port Donna,Johnson Plaza,F,0,3,2,2,0,1,2,2,1,3,16,30,53.33,PAT,Patna
+PAT_116,Theresa,,15,10,10,D,Lake Breannatown,Jack Ridge,M,2,4,1,0,4,0,1,1,3,0,16,30,53.33,PAT,Patna
+PAT_117,Janet,,15,10,10,D,Dicksonfort,George Mountain,F,0,2,0,2,2,0,3,2,0,3,14,30,46.67,PAT,Patna
+PAT_118,Brandon,,7,2,2,D,Loganstad,Nelson Walks,M,2,0,0,2,2,2,2,1,3,2,16,30,53.33,PAT,Patna
+PAT_119,Jessica,,14,9,9,D,Monicamouth,Erickson Street,M,0,0,2,1,1,4,0,1,3,3,15,30,50.0,PAT,Patna
+PAT_120,Elizabeth,,6,1,1,D,New Codymouth,Hahn Valley,M,1,1,0,2,4,2,2,1,3,0,16,30,53.33,PAT,Patna
+PAT_121,Melissa,,13,8,8,E,Hatfieldburgh,Sherri Stravenue,F,0,1,0,1,3,1,0,3,2,2,13,30,43.33,PAT,Patna
+PAT_122,Pamela,,16,10,10,E,Moralesfort,Hayden Vista,F,1,0,1,2,2,1,2,3,0,1,13,30,43.33,PAT,Patna
+PAT_123,Alexander,,14,9,9,E,West Nancytown,Martinez Plains,M,2,3,0,1,4,0,3,1,0,2,16,30,53.33,PAT,Patna
+PAT_124,Charles,,15,10,10,E,Shelbyburgh,Kevin Causeway,F,2,2,2,0,3,1,1,0,3,1,15,30,50.0,PAT,Patna
+PAT_125,Linda,,15,10,10,E,Tylerland,Emily Parkway,M,0,3,1,2,0,0,2,1,1,1,11,30,36.67,PAT,Patna
+PAT_126,Matthew,,11,6,6,E,Port Judith,Cheryl Drive,F,2,3,0,1,3,0,0,3,2,3,17,30,56.67,PAT,Patna
+PAT_127,Scott,,6,1,1,E,North Shelly,Harrington Mall,F,0,2,2,2,1,1,1,1,0,1,11,30,36.67,PAT,Patna
+PAT_128,Julie,,8,3,3,E,Williamsburgh,Angela Ranch,M,1,1,1,2,2,1,1,3,2,1,15,30,50.0,PAT,Patna
+PAT_129,Danielle,,6,1,1,E,Blankenshipmouth,Benjamin Ports,M,0,3,0,2,2,2,1,0,0,0,10,30,33.33,PAT,Patna
+PAT_130,Vanessa,,8,3,3,E,Lake Katherine,Melissa Bypass,F,2,4,1,2,4,0,2,0,1,0,16,30,53.33,PAT,Patna
+PAT_131,Cody,,15,10,10,E,Thomasmouth,Brooke Vista,M,1,0,1,0,1,4,2,1,1,1,12,30,40.0,PAT,Patna
+PAT_132,Clinton,,14,9,9,E,Dixonchester,Heath Ways,F,1,0,1,2,4,0,0,1,0,0,9,30,30.0,PAT,Patna
+PAT_133,Michael,,10,5,5,E,Nicoleville,Anthony Neck,F,1,2,2,2,4,1,1,3,1,0,17,30,56.67,PAT,Patna
+PAT_134,Lisa,,16,10,10,E,South Daniel,Vincent Spur,F,1,0,0,1,0,3,0,2,3,3,13,30,43.33,PAT,Patna
+PAT_135,Christian,,13,8,8,E,South Theresa,Trujillo Meadows,M,2,3,0,1,3,1,2,0,3,1,16,30,53.33,PAT,Patna
+PAT_136,Sandra,,7,2,2,E,East Brandontown,Brown Plains,F,0,4,2,0,2,2,3,3,2,2,20,30,66.67,PAT,Patna
+PAT_137,Charles,,14,9,9,E,Lake Christon,Mccarthy Isle,F,0,1,2,0,1,4,0,0,0,2,10,30,33.33,PAT,Patna
+PAT_138,Kaitlyn,,14,9,9,E,Hollychester,Meyers Field,M,1,4,0,2,4,0,0,0,1,2,14,30,46.67,PAT,Patna
+PAT_139,Julie,,12,7,7,E,Lake Tiffany,James Field,M,2,4,0,2,4,2,0,2,2,0,18,30,60.0,PAT,Patna
+PAT_140,Michael,,8,3,3,E,West Tanyaborough,Jeremy Viaduct,F,2,2,0,2,0,2,2,2,1,1,14,30,46.67,PAT,Patna
+PAT_141,Amanda,,14,9,9,E,New Jacob,David Ports,F,2,4,1,0,4,2,0,1,0,3,17,30,56.67,PAT,Patna
+PAT_142,Joseph,,7,2,2,E,Greeneside,Williams Park,M,0,3,1,0,2,4,0,2,0,0,12,30,40.0,PAT,Patna
+PAT_143,Jeffrey,,9,4,4,E,Russoview,Wood Union,F,1,0,1,2,0,0,0,2,2,1,9,30,30.0,PAT,Patna
+PAT_144,Derek,,7,2,2,E,Griffithside,Burns Creek,M,2,0,1,2,3,1,3,3,2,0,17,30,56.67,PAT,Patna
+PAT_145,Patricia,,11,6,6,E,South Jennifer,Davis Parkway,M,1,4,1,2,0,2,1,3,3,1,18,30,60.0,PAT,Patna
+PAT_146,Sheila,,11,6,6,E,South Meganchester,Holloway Hills,M,2,2,1,0,4,0,0,2,0,1,12,30,40.0,PAT,Patna
+PAT_147,Lori,,9,4,4,E,Zacharyland,Sabrina Point,M,1,4,0,2,3,3,3,0,2,0,18,30,60.0,PAT,Patna
+PAT_148,Jeremy,,13,8,8,E,South Bailey,Tiffany Ferry,F,0,2,2,1,2,2,0,2,0,1,12,30,40.0,PAT,Patna
+PAT_149,Tyler,,7,2,2,E,Johnsonberg,Rachel Mountains,F,1,2,1,1,3,4,3,0,3,2,20,30,66.67,PAT,Patna
+PAT_150,Ralph,,15,10,10,E,West Bruceton,Angela Keys,M,2,2,2,0,4,4,2,2,0,0,18,30,60.0,PAT,Patna
+SMT_1,Amber,,12,7,7,A,South Debra,Alan Motorway,M,1,1,1,2,1,1,1,3,3,0,14,30,46.67,SMT,SMT
+SMT_2,Charles,,15,10,10,A,Smithburgh,Kathleen Causeway,F,1,1,1,1,0,4,0,2,3,2,15,30,50.0,SMT,SMT
+SMT_3,Jenny,,13,8,8,A,Carrfurt,Valerie Mission,M,2,0,0,1,0,0,0,2,2,0,7,30,23.33,SMT,SMT
+SMT_4,Dorothy,,13,8,8,A,Brandonshire,Christopher Locks,F,2,0,0,2,4,3,1,0,3,0,15,30,50.0,SMT,SMT
+SMT_5,Douglas,,11,6,6,A,East Janetland,Brittney Shores,M,2,2,2,1,1,0,2,3,1,1,15,30,50.0,SMT,SMT
+SMT_6,Whitney,,6,1,1,A,Hansonhaven,Megan Ridge,M,2,2,0,0,1,3,3,2,3,0,16,30,53.33,SMT,SMT
+SMT_7,Rachel,,13,8,8,A,Travisbury,Nicole Tunnel,M,2,1,0,1,4,2,3,3,0,2,18,30,60.0,SMT,SMT
+SMT_8,Julia,,9,4,4,A,West Caleb,Dawn Mission,F,2,1,2,1,4,3,1,3,0,1,18,30,60.0,SMT,SMT
+SMT_9,April,,16,10,10,A,New Danielle,Martha Wall,F,0,0,0,0,1,4,2,3,1,0,11,30,36.67,SMT,SMT
+SMT_10,Dana,,11,6,6,A,Thomasside,Solis Gardens,M,1,4,0,0,2,4,3,2,0,2,18,30,60.0,SMT,SMT
+SMT_11,James,,9,4,4,A,South Susan,Joshua Rapid,F,0,3,0,1,3,2,3,2,3,3,20,30,66.67,SMT,SMT
+SMT_12,Lauren,,6,1,1,A,East Laura,Danielle Island,M,2,3,1,1,1,3,2,3,3,1,20,30,66.67,SMT,SMT
+SMT_13,Daniel,,9,4,4,A,Ricardoberg,Warren Burgs,M,2,2,1,2,0,4,3,2,2,2,20,30,66.67,SMT,SMT
+SMT_14,Julie,,16,10,10,A,South Stevenville,Torres Way,F,0,4,2,2,2,0,1,2,2,3,18,30,60.0,SMT,SMT
+SMT_15,Robert,,15,10,10,A,Port Angelaport,Erika Overpass,F,1,1,1,2,2,2,3,3,2,0,17,30,56.67,SMT,SMT
+SMT_16,Tabitha,,7,2,2,A,West Courtneyshire,Johnson Forks,M,1,0,1,2,1,1,2,1,1,2,12,30,40.0,SMT,SMT
+SMT_17,Gabriella,,15,10,10,A,Cooperland,Taylor Trace,F,2,3,2,1,1,0,0,0,2,1,12,30,40.0,SMT,SMT
+SMT_18,Angela,,6,1,1,A,Medinaview,Jonathon Point,F,2,3,2,2,2,4,3,3,3,1,25,30,83.33,SMT,SMT
+SMT_19,Jason,,12,7,7,A,Lake Lisa,Black Orchard,F,2,0,2,2,0,2,0,0,1,0,9,30,30.0,SMT,SMT
+SMT_20,Dakota,,14,9,9,A,Heatherbury,Hartman Points,M,2,4,0,2,4,1,3,1,0,1,18,30,60.0,SMT,SMT
+SMT_21,Priscilla,,15,10,10,A,Balltown,Elizabeth Turnpike,M,2,0,0,0,4,1,0,1,2,1,11,30,36.67,SMT,SMT
+SMT_22,Whitney,,15,10,10,A,Brownchester,Hughes Skyway,M,0,1,2,0,3,0,1,3,3,1,14,30,46.67,SMT,SMT
+SMT_23,Andrea,,14,9,9,A,North Marie,Marc Views,F,2,4,0,0,4,2,3,1,1,0,17,30,56.67,SMT,SMT
+SMT_24,Alicia,,7,2,2,A,Schultzburgh,Paul Center,F,2,4,2,0,4,0,3,3,2,1,21,30,70.0,SMT,SMT
+SMT_25,Timothy,,10,5,5,A,Lisaland,Christopher Mall,F,0,3,1,0,2,2,1,0,0,2,11,30,36.67,SMT,SMT
+SMT_26,Daniel,,7,2,2,A,Longhaven,Jessica Crescent,F,1,2,0,2,0,1,0,3,1,0,10,30,33.33,SMT,SMT
+SMT_27,Sandra,,8,3,3,A,North Vincentport,Ramirez Road,M,2,0,1,2,2,0,0,3,1,3,14,30,46.67,SMT,SMT
+SMT_28,Joseph,,14,9,9,A,West Stevenhaven,May Fields,M,0,1,1,1,3,4,2,2,0,3,17,30,56.67,SMT,SMT
+SMT_29,Teresa,,13,8,8,A,Williamsview,Bailey Islands,M,0,0,2,1,2,0,2,2,2,2,13,30,43.33,SMT,SMT
+SMT_30,Brittany,,15,10,10,A,Ramirezberg,Brown Expressway,F,2,1,2,2,2,4,2,1,3,3,22,30,73.33,SMT,SMT
+SMT_31,Mary,,11,6,6,B,West Jeffreyville,Chapman Court,F,0,4,1,2,4,4,1,1,1,2,20,30,66.67,SMT,SMT
+SMT_32,Nancy,,7,2,2,B,Lake Vincent,Amy Walk,F,2,1,0,1,0,0,2,2,0,1,9,30,30.0,SMT,SMT
+SMT_33,Amber,,16,10,10,B,Kathrynborough,Laura Route,F,1,4,2,2,0,0,2,0,1,2,14,30,46.67,SMT,SMT
+SMT_34,Denise,,16,10,10,B,Jasonfurt,Jacob Unions,M,0,3,0,1,4,2,3,0,1,3,17,30,56.67,SMT,SMT
+SMT_35,Christopher,,6,1,1,B,Port Joshuamouth,Kelly Bypass,M,2,2,2,2,2,0,1,1,0,1,13,30,43.33,SMT,SMT
+SMT_36,Samantha,,15,10,10,B,Powellchester,Jennifer Plains,M,0,2,1,0,3,1,0,2,3,1,13,30,43.33,SMT,SMT
+SMT_37,Rebecca,,15,10,10,B,Bobton,Alexis Square,M,0,4,1,0,1,2,1,1,3,0,13,30,43.33,SMT,SMT
+SMT_38,David,,16,10,10,B,Stevenshire,Greene Course,F,2,1,1,2,1,0,0,3,3,3,16,30,53.33,SMT,SMT
+SMT_39,Amy,,7,2,2,B,Watkinsstad,Lopez Ridge,M,1,1,1,2,1,4,1,1,0,2,14,30,46.67,SMT,SMT
+SMT_40,Jennifer,,10,5,5,B,Kathleenmouth,Felicia Union,M,0,4,0,0,0,0,1,3,1,0,9,30,30.0,SMT,SMT
+SMT_41,Angela,,15,10,10,B,Pamelafort,Charles Grove,M,1,3,0,1,2,4,1,1,2,0,15,30,50.0,SMT,SMT
+SMT_42,Kelsey,,16,10,10,B,Angelaberg,Trevor Cape,M,2,0,1,0,1,4,3,1,1,1,14,30,46.67,SMT,SMT
+SMT_43,Michael,,9,4,4,B,East Brianna,Renee Rue,M,2,0,2,2,4,2,3,3,2,2,22,30,73.33,SMT,SMT
+SMT_44,Connie,,13,8,8,B,Lake Lisachester,Virginia Island,M,1,0,2,2,4,2,3,3,3,2,22,30,73.33,SMT,SMT
+SMT_45,Andrew,,7,2,2,B,West Steven,James Expressway,F,0,3,1,2,3,0,2,3,3,1,18,30,60.0,SMT,SMT
+SMT_46,Laura,,14,9,9,B,Shawnland,Vargas Centers,F,2,0,0,1,4,2,0,2,2,3,16,30,53.33,SMT,SMT
+SMT_47,Justin,,7,2,2,B,Edwardston,Houston Hills,M,0,3,2,0,2,2,0,0,1,2,12,30,40.0,SMT,SMT
+SMT_48,Carol,,16,10,10,B,South Evelyn,Jessica Ferry,M,0,2,0,1,2,0,1,0,3,0,9,30,30.0,SMT,SMT
+SMT_49,Tina,,6,1,1,B,New Tara,Deborah Ways,F,1,3,0,1,3,4,0,0,0,0,12,30,40.0,SMT,SMT
+SMT_50,Kari,,14,9,9,B,Brianhaven,Crystal Avenue,M,0,4,2,1,3,2,2,3,3,0,20,30,66.67,SMT,SMT
+SMT_51,Jacqueline,,7,2,2,B,East David,Dixon Square,F,0,1,1,0,2,1,0,3,1,0,9,30,30.0,SMT,SMT
+SMT_52,Laura,,16,10,10,B,North Vanessa,Lee Circle,F,0,2,2,1,1,3,1,1,3,3,17,30,56.67,SMT,SMT
+SMT_53,Evelyn,,14,9,9,B,Morganville,Daniel Crossroad,F,1,0,2,2,3,4,1,1,1,0,15,30,50.0,SMT,SMT
+SMT_54,Paula,,7,2,2,B,South Renee,Mullins Expressway,M,0,3,1,1,3,0,0,1,0,0,9,30,30.0,SMT,SMT
+SMT_55,Amanda,,15,10,10,B,Wrightport,Julia Trail,M,1,3,1,1,0,2,1,3,1,3,16,30,53.33,SMT,SMT
+SMT_56,Kathryn,,6,1,1,B,East James,Brown Mountain,M,2,4,0,1,0,0,2,3,1,1,14,30,46.67,SMT,SMT
+SMT_57,Jill,,12,7,7,B,North Craigland,Brown Locks,M,0,1,1,1,3,1,2,3,3,1,16,30,53.33,SMT,SMT
+SMT_58,Brittany,,7,2,2,B,South Michaelmouth,Summers Landing,M,0,3,0,2,0,1,2,0,1,1,10,30,33.33,SMT,SMT
+SMT_59,Beth,,7,2,2,B,Wilsonfurt,Smith River,F,1,3,1,1,2,4,1,2,3,2,20,30,66.67,SMT,SMT
+SMT_60,Brandon,,16,10,10,B,East Janet,Ashley Plains,M,0,3,1,2,4,1,3,0,1,3,18,30,60.0,SMT,SMT
+SMT_61,Monica,,8,3,3,C,East Kenneth,Butler Center,F,1,3,1,2,0,2,2,3,3,2,19,30,63.33,SMT,SMT
+SMT_62,Jonathan,,6,1,1,C,Amandaport,Gomez Plaza,F,0,4,0,1,0,3,1,3,2,1,15,30,50.0,SMT,SMT
+SMT_63,Mark,,15,10,10,C,South Maria,Angela Bridge,F,2,1,1,1,4,4,2,2,1,2,20,30,66.67,SMT,SMT
+SMT_64,Carolyn,,15,10,10,C,North Christina,Davis Flat,M,2,3,0,1,3,1,1,0,2,2,15,30,50.0,SMT,SMT
+SMT_65,Anthony,,7,2,2,C,Lyonsville,Stewart Villages,F,2,4,0,2,0,1,3,0,1,2,15,30,50.0,SMT,SMT
+SMT_66,Kelly,,7,2,2,C,Welchstad,Ballard Fall,F,0,3,2,0,0,4,1,2,1,3,16,30,53.33,SMT,SMT
+SMT_67,Allen,,13,8,8,C,Port Gabrielview,Kelly Roads,M,0,1,2,0,2,1,1,1,0,0,8,30,26.67,SMT,SMT
+SMT_68,Matthew,,7,2,2,C,Tonyville,Ruiz Lock,M,0,2,2,0,4,1,1,2,0,2,14,30,46.67,SMT,SMT
+SMT_69,Sherry,,6,1,1,C,East Kyleport,Garcia Place,M,1,1,2,1,4,2,0,3,0,0,14,30,46.67,SMT,SMT
+SMT_70,Richard,,6,1,1,C,North Deanbury,Thomas Union,F,0,0,2,2,4,2,2,1,2,2,17,30,56.67,SMT,SMT
+SMT_71,Gary,,11,6,6,C,Lake Zacharyside,Patrick Course,F,2,1,1,0,4,2,1,0,3,0,14,30,46.67,SMT,SMT
+SMT_72,Denise,,16,10,10,C,Shannonfurt,Johnny Crossroad,F,0,1,1,0,4,3,1,3,1,2,16,30,53.33,SMT,SMT
+SMT_73,Pedro,,6,1,1,C,Wilsonshire,Schaefer Point,F,1,1,2,0,1,0,0,0,2,1,8,30,26.67,SMT,SMT
+SMT_74,James,,15,10,10,C,East Aaronview,David Creek,M,2,3,0,2,4,4,2,1,3,1,22,30,73.33,SMT,SMT
+SMT_75,Richard,,10,5,5,C,Pattersontown,Marsh Dam,F,2,2,1,0,1,4,0,2,1,1,14,30,46.67,SMT,SMT
+SMT_76,Joseph,,15,10,10,C,Richardsonhaven,Hill Loop,M,0,2,2,2,2,0,0,3,3,2,16,30,53.33,SMT,SMT
+SMT_77,Brenda,,10,5,5,C,South Stevenmouth,Poole River,F,2,1,2,1,1,3,3,1,3,0,17,30,56.67,SMT,SMT
+SMT_78,Tracy,,9,4,4,C,Andersontown,Turner Trafficway,F,0,0,1,1,1,2,1,3,3,3,15,30,50.0,SMT,SMT
+SMT_79,Kayla,,14,9,9,C,East Anthonyton,Cole Corner,F,1,1,0,0,0,1,1,2,3,0,9,30,30.0,SMT,SMT
+SMT_80,Stephanie,,15,10,10,C,Shawntown,David Springs,M,0,1,0,2,2,4,0,2,3,2,16,30,53.33,SMT,SMT
+SMT_81,Nicholas,,6,1,1,C,Boydmouth,Hall Shoal,F,0,4,1,2,2,2,2,3,2,2,20,30,66.67,SMT,SMT
+SMT_82,Rebecca,,7,2,2,C,Duncanchester,Gregory Way,F,2,1,0,2,1,3,2,0,0,2,13,30,43.33,SMT,SMT
+SMT_83,Rebecca,,10,5,5,C,Mannland,Daniel Drives,F,2,3,2,1,0,0,0,3,0,3,14,30,46.67,SMT,SMT
+SMT_84,Darrell,,15,10,10,C,Jamesside,Abbott Plaza,F,1,0,2,0,1,0,1,1,3,3,12,30,40.0,SMT,SMT
+SMT_85,John,,6,1,1,C,East Paulfort,Haynes Squares,M,0,2,2,1,3,0,0,0,3,2,13,30,43.33,SMT,SMT
+SMT_86,Hannah,,16,10,10,C,North Cynthiatown,Johnson Green,F,0,0,2,1,1,3,1,1,1,1,11,30,36.67,SMT,SMT
+SMT_87,Jeffrey,,16,10,10,C,Tammymouth,Michelle Underpass,F,1,2,2,0,3,1,3,1,2,3,18,30,60.0,SMT,SMT
+SMT_88,Derek,,7,2,2,C,Robertton,Albert Park,M,1,0,1,2,3,2,0,2,0,1,12,30,40.0,SMT,SMT
+SMT_89,Alexandra,,15,10,10,C,South Michaelhaven,Graham Tunnel,F,2,0,2,0,1,4,3,2,3,0,17,30,56.67,SMT,SMT
+SMT_90,Kathryn,,12,7,7,C,South Thomasside,Davila Tunnel,M,2,1,0,0,0,1,2,0,0,0,6,30,20.0,SMT,SMT
+SMT_91,Isabel,,11,6,6,D,East Bettyville,Gonzales Lodge,M,2,4,2,1,1,1,2,1,3,1,18,30,60.0,SMT,SMT
+SMT_92,Barbara,,15,10,10,D,Vanessaborough,Ronald Crossroad,F,2,4,2,0,0,0,1,2,0,2,13,30,43.33,SMT,SMT
+SMT_93,Laura,,8,3,3,D,South John,Jones Tunnel,F,2,2,0,1,2,3,3,3,0,1,17,30,56.67,SMT,SMT
+SMT_94,Jennifer,,16,10,10,D,South Susanshire,Karen Vista,F,0,4,1,0,3,3,2,1,0,3,17,30,56.67,SMT,SMT
+SMT_95,Melissa,,12,7,7,D,Port Brendatown,Robertson Hills,M,1,1,1,2,1,2,0,3,1,3,15,30,50.0,SMT,SMT
+SMT_96,Laura,,9,4,4,D,South Christopher,Chelsea Ridge,F,0,3,0,1,1,1,0,3,1,1,11,30,36.67,SMT,SMT
+SMT_97,Cindy,,7,2,2,D,South Theodoreborough,Stewart Brook,F,0,0,0,0,4,0,0,1,0,1,6,30,20.0,SMT,SMT
+SMT_98,Barbara,,14,9,9,D,Thomasberg,Andrew Parkways,M,2,1,0,0,4,2,3,2,3,0,17,30,56.67,SMT,SMT
+SMT_99,Jeremy,,9,4,4,D,Kennethville,Paula Estate,M,1,4,2,1,2,4,2,2,2,2,22,30,73.33,SMT,SMT
+SMT_100,Maria,,14,9,9,D,Crawfordhaven,Smith Tunnel,F,1,3,1,1,2,1,1,1,2,1,14,30,46.67,SMT,SMT
+SMT_101,Kyle,,14,9,9,D,Scottport,Velasquez Terrace,F,2,4,0,2,2,2,1,2,1,2,18,30,60.0,SMT,SMT
+SMT_102,David,,14,9,9,D,West Stephanie,Norman Circles,M,0,2,2,2,3,4,0,1,2,2,18,30,60.0,SMT,SMT
+SMT_103,Kathleen,,10,5,5,D,Lake Kevinton,Juan Knolls,F,0,2,0,1,3,0,3,2,2,3,16,30,53.33,SMT,SMT
+SMT_104,James,,6,1,1,D,South Emilyfurt,Gonzales Plaza,M,0,3,1,1,1,1,0,2,0,0,9,30,30.0,SMT,SMT
+SMT_105,Nichole,,15,10,10,D,South Jennifer,Ricardo Mountains,M,1,0,1,1,2,3,3,3,1,2,17,30,56.67,SMT,SMT
+SMT_106,Ryan,,14,9,9,D,Ramirezfort,Shaffer Mountains,F,2,2,0,2,1,2,1,2,1,1,14,30,46.67,SMT,SMT
+SMT_107,Martha,,14,9,9,D,Kimberlychester,Eaton Orchard,M,0,3,0,1,1,0,2,0,2,1,10,30,33.33,SMT,SMT
+SMT_108,Krista,,6,1,1,D,Port Michael,Joshua Valleys,M,2,0,2,1,1,4,1,2,1,0,14,30,46.67,SMT,SMT
+SMT_109,David,,16,10,10,D,Connieberg,Nicholas Haven,F,2,2,0,0,4,3,1,0,2,2,16,30,53.33,SMT,SMT
+SMT_110,Lisa,,10,5,5,D,Ashleyland,Sutton Stravenue,F,2,3,2,0,1,0,0,0,2,2,12,30,40.0,SMT,SMT
+SMT_111,Jeremy,,11,6,6,D,Port Abigail,David Orchard,M,2,4,2,0,2,3,2,1,1,3,20,30,66.67,SMT,SMT
+SMT_112,Christian,,7,2,2,D,Mooreview,Scott Locks,M,1,2,2,0,0,1,3,2,0,2,13,30,43.33,SMT,SMT
+SMT_113,Eric,,12,7,7,D,East Michaelview,David Square,M,0,0,0,1,1,4,3,0,2,0,11,30,36.67,SMT,SMT
+SMT_114,Evan,,11,6,6,D,Lake Michaelstad,Morris Mission,M,1,4,1,1,4,2,2,2,2,0,19,30,63.33,SMT,SMT
+SMT_115,Melissa,,9,4,4,D,East Stephanieburgh,Daniel Square,M,0,3,2,0,4,3,1,1,1,1,16,30,53.33,SMT,SMT
+SMT_116,Ryan,,13,8,8,D,Lake Dennismouth,Page Forest,M,2,2,2,1,1,4,0,2,3,3,20,30,66.67,SMT,SMT
+SMT_117,Michael,,6,1,1,D,South Amy,Mcneil Mountain,F,2,0,2,0,3,0,1,1,1,3,13,30,43.33,SMT,SMT
+SMT_118,Megan,,16,10,10,D,West Shanestad,Wilson Meadow,M,0,1,0,2,0,3,1,0,0,3,10,30,33.33,SMT,SMT
+SMT_119,Christina,,7,2,2,D,West Courtney,Reyes Freeway,F,1,4,0,2,2,2,1,1,3,0,16,30,53.33,SMT,SMT
+SMT_120,Brad,,16,10,10,D,New Joshua,Gonzalez Land,F,0,1,2,2,1,3,1,3,2,1,16,30,53.33,SMT,SMT
+SMT_121,Karen,,15,10,10,E,Millerburgh,Evans Prairie,F,1,2,2,1,1,0,0,2,0,1,10,30,33.33,SMT,SMT
+SMT_122,Jennifer,,7,2,2,E,Jennifershire,John Route,F,1,2,0,2,1,3,1,3,3,1,17,30,56.67,SMT,SMT
+SMT_123,Jessica,,10,5,5,E,West Daisyview,James Burgs,F,2,1,2,1,3,4,2,0,2,3,20,30,66.67,SMT,SMT
+SMT_124,David,,10,5,5,E,Guerrerofort,Susan Glen,M,2,0,1,1,1,0,0,3,3,0,11,30,36.67,SMT,SMT
+SMT_125,Jessica,,16,10,10,E,North Jennifer,Joshua Lock,F,2,2,0,0,4,3,1,2,3,0,17,30,56.67,SMT,SMT
+SMT_126,Isabella,,11,6,6,E,North Matthewtown,Matthew Valley,M,1,4,0,1,3,0,3,0,3,0,15,30,50.0,SMT,SMT
+SMT_127,Marie,,16,10,10,E,Lake Kimberly,Beck Way,F,2,2,1,2,4,4,0,3,0,2,20,30,66.67,SMT,SMT
+SMT_128,Amy,,14,9,9,E,Beltranchester,Karen Tunnel,M,1,2,2,2,1,1,1,0,3,1,14,30,46.67,SMT,SMT
+SMT_129,Gregory,,13,8,8,E,Hebertshire,Shepard Springs,M,0,1,0,0,1,0,0,0,0,0,2,30,6.67,SMT,SMT
+SMT_130,Traci,,6,1,1,E,Javierport,White Lodge,F,2,4,2,1,3,4,3,0,3,1,23,30,76.67,SMT,SMT
+SMT_131,Mark,,7,2,2,E,West April,Charles Spring,F,1,4,0,1,2,1,3,2,2,3,19,30,63.33,SMT,SMT
+SMT_132,Jessica,,8,3,3,E,Rosalesborough,Chase Garden,F,0,0,0,2,0,4,0,3,3,1,13,30,43.33,SMT,SMT
+SMT_133,Austin,,15,10,10,E,East Tommyshire,Ronald Lights,F,0,0,0,1,3,4,2,0,0,2,12,30,40.0,SMT,SMT
+SMT_134,Patricia,,14,9,9,E,Albertton,Hess Inlet,M,0,2,2,2,0,0,1,1,2,0,10,30,33.33,SMT,SMT
+SMT_135,Daniel,,9,4,4,E,Briantown,Turner Mews,F,0,3,2,2,2,3,1,3,1,3,20,30,66.67,SMT,SMT
+SMT_136,Erica,,14,9,9,E,East Ashley,Maria Extensions,M,1,4,2,2,1,3,3,1,0,1,18,30,60.0,SMT,SMT
+SMT_137,Suzanne,,16,10,10,E,South Christophermouth,Daniel Grove,M,2,1,1,2,0,2,0,0,1,1,10,30,33.33,SMT,SMT
+SMT_138,Darlene,,14,9,9,E,New Louisfort,Scott Neck,M,0,0,2,2,4,3,2,1,0,0,14,30,46.67,SMT,SMT
+SMT_139,Mark,,15,10,10,E,Lake Steven,Gonzalez Glens,M,0,0,1,0,1,0,3,0,2,2,9,30,30.0,SMT,SMT
+SMT_140,Penny,,7,2,2,E,Ryanfurt,Harrison Ville,F,1,0,1,2,3,3,0,1,0,0,11,30,36.67,SMT,SMT
+SMT_141,Cheyenne,,15,10,10,E,Leeport,Williams Drive,M,1,1,2,2,2,0,3,1,2,3,17,30,56.67,SMT,SMT
+SMT_142,Marie,,11,6,6,E,Lake Garrettside,Wright Way,M,1,2,1,0,3,1,2,3,2,0,15,30,50.0,SMT,SMT
+SMT_143,Susan,,12,7,7,E,East Rebeccaside,Gordon Trace,F,2,0,1,2,4,2,1,2,0,2,16,30,53.33,SMT,SMT
+SMT_144,Daniel,,6,1,1,E,Simmonshaven,Juan Fall,F,1,0,2,2,1,0,2,3,0,2,13,30,43.33,SMT,SMT
+SMT_145,Courtney,,16,10,10,E,New Linda,Phillip Viaduct,F,0,1,0,1,1,3,1,0,0,0,7,30,23.33,SMT,SMT
+SMT_146,John,,7,2,2,E,Cobbville,Jonathan Vista,M,2,1,0,2,2,4,0,1,2,3,17,30,56.67,SMT,SMT
+SMT_147,Christopher,,14,9,9,E,North Wandaport,Curtis Park,F,2,0,1,0,2,1,2,1,0,3,12,30,40.0,SMT,SMT
+SMT_148,Tricia,,10,5,5,E,North Robertside,Walker Oval,F,1,4,0,1,4,1,3,0,2,3,19,30,63.33,SMT,SMT
+SMT_149,Mark,,11,6,6,E,Lake Zachary,Michele Mountains,M,1,1,2,2,2,0,2,2,0,0,12,30,40.0,SMT,SMT
+SMT_150,Jeffrey,,15,10,10,E,West Williammouth,Wyatt Wells,M,1,3,1,2,0,2,1,1,0,0,11,30,36.67,SMT,SMT

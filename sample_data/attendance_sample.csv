@@ -1,0 +1,11 @@
+student_id,date,status,remarks
+STU001,2024-01-15,Present,On time
+STU002,2024-01-15,Present,On time
+STU003,2024-01-15,Absent,Sick leave
+STU004,2024-01-15,Present,On time
+STU005,2024-01-15,Late,Traffic delay
+STU001,2024-01-16,Present,On time
+STU002,2024-01-16,Present,On time
+STU003,2024-01-16,Present,Recovered
+STU004,2024-01-16,Present,On time
+STU005,2024-01-16,Present,On time
