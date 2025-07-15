@@ -55,13 +55,15 @@ Unlike traditional systems that focus purely on academic performance, this appli
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-team/Diksha-Foundation-Cfg.git
+git clone "https://github.com/amishapai/Diksha-Foundation-Cfg.git"
 cd Diksha-Foundation-Cfg
 cd client && npm install
 cd ../server && npm install
+
 MONGO_URI=your-mongodb-uri
 GEMINI_API_KEY=your-gemini-key
 GOOGLE_TRANSLATE_API_KEY=your-key
+
 # Run backend
 cd server
 npm run dev
